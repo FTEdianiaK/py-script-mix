@@ -15,4 +15,4 @@
 - One word, [Python](https://www.python.org/).
 
 ### Known Bugs
-- None yet... Report them [here](https://github.com/FTEdianiaK/library-parrotex/issues).
+- None yet... Report them [here](https://github.com/FTEdianiaK/py-script-mix/issues).
