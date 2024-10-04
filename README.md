@@ -3,7 +3,7 @@
 
 ![Software screenshot](https://i.imgflip.com/8y2s0r.jpg)
 
-[License](https://github.com/FTEdianiaK/py-script-mix/blob/main/LICENSE)
+
 
 ### Contents
 
